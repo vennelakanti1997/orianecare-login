@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/orianecare-login/static/css/main.182186aa.css",
+    "main.js": "/orianecare-login/static/js/main.f335817b.js",
+    "index.html": "/orianecare-login/index.html",
+    "main.182186aa.css.map": "/orianecare-login/static/css/main.182186aa.css.map",
+    "main.f335817b.js.map": "/orianecare-login/static/js/main.f335817b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.182186aa.css",
+    "static/js/main.f335817b.js"
+  ]
+}
